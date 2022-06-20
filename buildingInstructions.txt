@@ -1,0 +1,11 @@
+Use this document to build rooms and maps
+
+# <- use this to make a wall
+S <- use this to make an entrance door (One entrance per room)
+E <- use this to make an exit door
+| <- use this to make the lower half of a door
+B <- use this to make a destructable box
+- <- use this to make a platform (One way)
+$ <- use this to make a shop (2x2 size)
+! <- use this to mark a place that has been taken up. This marker will not spawn anything
+L <- button for a new level at the end of a level.

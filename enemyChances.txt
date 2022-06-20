@@ -1,0 +1,3 @@
+40 Guard
+30 SwordGuard
+10 RocketGuard

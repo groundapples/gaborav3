@@ -1,0 +1,15 @@
+Boots 3
+Increases run speed
+---
+HealthPotion 1
+Heals 40 HP
+---
+Dagger 5
+Increases attack speed
+---
+Vest 4
+Increases max HP
+---
+JumpBoots 5
+Grants an extra jump
+---
